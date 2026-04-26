@@ -1,6 +1,6 @@
 # Renewable Energy Worldwide Dashboard
 
-This project is an interactive data visualization dashboard built with Streamlit, Plotly, and pandas. It presents renewable electricity generation and capacity data from Our World in Data in an interactive web app.
+This project is an interactive data visualization dashboard built with Streamlit, Plotly, and pandas. It presents renewable electricity generation and capacity data from Our World in Data in an interactive web app..
 
 ## What it is
 
